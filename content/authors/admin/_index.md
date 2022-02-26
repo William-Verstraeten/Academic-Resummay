@@ -73,9 +73,9 @@ highlight_name: true
 
 **Hi and welcome to my website!** 
 
-My name is William and I am a second-year master's student in Life Science engineering at EPFL (https://www.epfl.ch/education/master/programs/life-sciences-engineering/).
+My name is William and I am a second-year master's student in Life Science engineering at [EPFL](https://www.epfl.ch/education/master/programs/life-sciences-engineering/) .
 
-I'm currently working as a research intern at SUN biosciences(https://sunbioscience.ch/), where I am helping in the development of an *in vitro* model of liver cancer using the Gri3D platform (https://sunbioscience.ch/technology/). 
+I'm currently working as a research intern at [SUN bioscience](https://sunbioscience.ch/), where I am helping in the development of an *in vitro* model of liver cancer using the [Gri3D platform](https://sunbioscience.ch/technology/). 
 
 My main research interest lies in the development of reliable *in vitro* models for the study and treatment of complex diseases such as cancer and Parkinson's disease. Not only would such models help in the treatment of patients, but I also dare to hope that they would one day completely replace the use of animals in research.
 
