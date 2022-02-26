@@ -25,7 +25,7 @@ experience:
   - title: Research intern
     company: SUN bioscience SA
     company_url: ''
-    company_logo: org-x
+    company_logo: SUN_bioscience_SA
     location: Lausanne, Switserland
     date_start: '01 Mar 2022'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Teaching assistant
     company: EPFL
     company_url: ''
-    company_logo: org-x
+    company_logo: EPFL
     location: Lausanne, Switserland
     date_start: '01 Sep 2021'
     date_end: '28 Feb 2022'
@@ -43,7 +43,7 @@ experience:
   - title: Teaching assistant
     company: TU Delft
     company_url: ''
-    company_logo: org-x
+    company_logo: TU_Delft
     location: Delft, Netherlands
     date_start: '01 Apr 2022'
     date_end: '31 May 2020'
