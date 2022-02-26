@@ -30,6 +30,7 @@ experience:
     date_start: 'Mar 2022'
     date_end: ''
     description: Working on the development of organoid image-based assays on our platform, Gri3D®.
+
   - title: Teaching assistant
     company: EPFL
     company_url: ''
