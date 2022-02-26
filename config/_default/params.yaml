@@ -110,4 +110,4 @@ extensions:
 ## Icon Pack Extensions
 ############################
   [icon.pack]
-    ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+    ai: true  # Academicons icon pack https://jpswalsh.github.io/academicons/
