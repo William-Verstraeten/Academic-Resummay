@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: SUN biosciences SA
     location: Lausanne, Switserland
-    date_start: 'Mar. 2022'
+    date_start: 'Mar 2022'
     date_end: ''
     description: Working on the development of organoid image-based assays on our platform, Gri3D®.
   - title: Teaching assistant
@@ -35,8 +35,8 @@ experience:
     company_url: ''
     company_logo: EPFL
     location: Lausanne, Switserland
-    date_start: 'Sep. 2021'
-    date_end: 'Feb. 2022'
+    date_start: 'Sep 2021'
+    date_end: 'Feb 2022'
     description: Teaching advanced Masters course on bio-sensors for university Life Sciences, Materials and Electronic students.  Learned to come up with exercises adapted to the students' level and present the solutions in an interactive manner.
         
   - title: Teaching assistant
@@ -44,8 +44,8 @@ experience:
     company_url: ''
     company_logo: TU Delft
     location: Delft, Netherlands
-    date_start: 'Apr. 2022'
-    date_end: 'May. 2020'
+    date_start: 'Apr 2022'
+    date_end: 'May 2020'
     description: Teaching assistant for second year university Physics and Nanobiology students during tutorials on thermodynamics and programming. Learned advanced teaching skills in an advanced course.
 
 design:
