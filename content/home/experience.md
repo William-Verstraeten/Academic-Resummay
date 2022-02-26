@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research intern
+    company: SUN bioscience SA
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: SUN biosciences SA
+    location: Lausanne, Switserland
+    date_start: 'Mar. 2022'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: Working on the development of organoid image-based assays on our platform, Gri3D®.
+  - title: Teaching assistant
+    company: EPFL
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: EPFL
+    location: Lausanne, Switserland
+    date_start: 'Sep. 2021'
+    date_end: 'Feb. 2022'
+    description: Teaching advanced Masters course on bio-sensors for university Life Sciences, Materials and Electronic students.  Learned to come up with exercises adapted to the students' level and present the solutions in an interactive manner.
+        
+  - title: Teaching assistant
+    company: TU Delft
+    company_url: ''
+    company_logo: TU Delft
+    location: Delft, Netherlands
+    date_start: 'Apr. 2022'
+    date_end: 'May. 2020'
+    description: Teaching assistant for second year university Physics and Nanobiology students during tutorials on thermodynamics and programming. Learned advanced teaching skills in an advanced course.
 
 design:
   columns: '2'
