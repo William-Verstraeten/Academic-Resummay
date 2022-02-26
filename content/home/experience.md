@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 01 Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Lausanne, Switserland
-    date_start: 'Mar 2022'
+    date_start: '01 Mar 2022'
     date_end: ''
     description: Working on the development of organoid image-based assays on our platform, Gri3D®.
 
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Lausanne, Switserland
-    date_start: 'Sep 2021'
-    date_end: 'Feb 2022'
+    date_start: '01 Sep 2021'
+    date_end: '28 Feb 2022'
     description: Teaching advanced Masters course on bio-sensors for university Life Sciences, Materials and Electronic students.  Learned to come up with exercises adapted to the students' level and present the solutions in an interactive manner.
         
   - title: Teaching assistant
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Delft, Netherlands
-    date_start: 'Apr 2022'
-    date_end: 'May 2020'
+    date_start: '01 Apr 2022'
+    date_end: '31 May 2020'
     description: Teaching assistant for second year university Physics and Nanobiology students during tutorials on thermodynamics and programming. Learned advanced teaching skills in an advanced course.
 
 design:
