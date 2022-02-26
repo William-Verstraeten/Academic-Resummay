@@ -28,7 +28,6 @@ education:
   - course: MSc in Life Sciences Engineering
     institution: Massachusetts Institute of Technology
     year: 2022
-
   - course: BSc in Nanobiology (Cum Laude)
     institution: TU Delft & Erasmus MC Rotterdam
     year: 2020
@@ -44,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:william.verstraeten@epfl.ch'
+  link: "mailto:william.verstraeten@epfl.ch"
 - icon: github
   icon_pack: fab
   link: https://github.com/William-Verstraeten
