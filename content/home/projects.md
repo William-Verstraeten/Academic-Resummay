@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: SensUs
     location: Lausanne, Switserland
-     date_start: '01 Jan 2021'
+    date_start: '01 Jan 2021'
     date_end: '30 Sep 2021'
     description: Developping a biosensor aimed at the rapid quantification of Hemagglutinin‑1 concentration in saliva.          
 
