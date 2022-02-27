@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: ""
   date_end: ""
   date_start: "Sep 2021"
   description: ""
@@ -31,10 +31,10 @@ item:
   organization_url: https://digital2021.sensus.org/index.html
   title: 'Based on our biosensor's performance our team obtained the first place in the analytical performance category.'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
   date_start:  "Sep 2021"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: ""
   organization: edX
   organization_url:  https://digital2021.sensus.org/index.html
   title: 'Based on our business plan our team obtained the second place in the translational potential category.'
