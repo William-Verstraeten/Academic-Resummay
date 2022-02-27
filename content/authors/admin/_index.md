@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: MSc in Life Sciences Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Swiss Federal Institute of Technology Lausanne (EPFL)
     year: 2022
   - course: BSc in Nanobiology (Cum Laude)
     institution: TU Delft & Erasmus MC Rotterdam

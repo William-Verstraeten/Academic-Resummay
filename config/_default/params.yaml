@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Earth
-  theme_night: Earth
+  theme_day: my_theme
+  theme_night: my_theme
   font: Native
   font_size: L
 
