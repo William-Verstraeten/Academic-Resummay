@@ -3,10 +3,10 @@ name = "Custom"
 
 [light]
   # Primary
-  primary = "#3f51b5"
+  primary = "#A6E3FA"
 
   # Menu
-  menu_primary = "#A6E3FA" # Material 500
+  menu_primary = "#3f51b5" # Material 500
   menu_text = "#fff"
   menu_text_active = "#A6E3FA" # Material Complemantary 500
   menu_title = "#fff"
