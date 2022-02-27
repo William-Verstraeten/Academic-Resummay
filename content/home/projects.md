@@ -22,6 +22,16 @@ date_format: 01 Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Coach for the Lau'Sens team in the 2022 SensUs competition
+    company: SensUs
+    company_url: ''
+    company_logo: SensUs
+    location: Lausanne, Switserland
+    date_start: '01 Jan 2022'
+    date_end: ''
+    description: Acting coach to guide and help the Lau'Sens team during the development of their biosensor in 2022 SensUs competition.the.          
+
   - title: Lab immersion in The laboratory of biomedical microfluidics (LBMM)
     company: LBMM, EPFL
     company_url: ''
