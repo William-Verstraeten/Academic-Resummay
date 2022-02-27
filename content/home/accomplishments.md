@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "Sep 2021"
+  date_start: Sep 2021
   description: ""
   organization: SensUs
   organization_url: https://digital2021.sensus.org/index.html
