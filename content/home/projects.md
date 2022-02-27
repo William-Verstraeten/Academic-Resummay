@@ -1,3 +1,4 @@
+---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -34,9 +35,10 @@ experience:
     company_url: ''
     company_logo: EPFL
     location: Lausanne, Switserland
-    date_start: '01 Jan 2021'
+     date_start: '01 Jan 2021'
     date_end: '30 Sep 2021'
-    description: Developping a biosensor aimed at the rapid quantification of Hemagglutinin‑1 concentration in saliva.
+    description: Developping a biosensor aimed at the rapid quantification of 				  	Hemagglutinin‑1 concentration in saliva.
+          
   - title: Lab immersion in BioNanoPhotonic Systems Laboratory
     company: BioNanoPhotonic Systems Laboratory, EPFL
     company_url: ''
@@ -44,7 +46,7 @@ experience:
     location: Delft, Netherlands
     date_start: '01 Jan 2021'
     date_end: '31 Jul 2021'
-    description: Adapting the nanoparticle‑enhanced plasmonic gold nanohole array sensing to salivary body fluids as well as developing and building of a microfluidic cartridge to decrease time of detection.
+    description: Adapting the nanoparticle‑enhanced plasmonic gold nanohole array 		sensing to salivary body fluids as well as developing and building of a microfluidic cartridge to decrease time of detection.
   - title: Bachelor End Project in Nanobiology
     company: Youk Lab, TU Delft
     company_url: ''
@@ -52,7 +54,8 @@ experience:
     location: Delft, Netherlands
     date_start: '01 Feb 2020'
     date_end: '10 Jul 2020'
-    description: Studying the influence of plating density on mouse embryonic stem cell survival and differentiation into neural precursors.
+    description: Studying the influence of plating density on mouse embryonic 	stem cell survival and differentiation into neural precursors.
 
 design:
   columns: '2'
+---
