@@ -3,14 +3,14 @@ name = "my_theme"
 
 light = True
 # Primary
-primary = "#4caf50"
+primary = "#41B3A3"
 
 # Menu
-menu_primary = "#0C8C98"
+menu_primary = "#85DCB"
 menu_text = "#fff"
-menu_text_active = "#127A69"
+menu_text_active = "#41B3A3"
 menu_title = "#fff"
 
 # Home sections
-home_section_odd = "#0C8C98"
-home_section_even = "#0C8C98"
+home_section_odd = "#85DCB"
+home_section_even = "#85DCB"
